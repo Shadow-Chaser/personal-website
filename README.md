@@ -1,2 +1,3 @@
 # personal-website
-![Website Look](/images/personal-website.png.png)
+
+![Website Look](images/personal-website.png.png)
