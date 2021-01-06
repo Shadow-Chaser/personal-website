@@ -134,13 +134,14 @@
 
 .work-inq{
     background-image: url("images/big_button.png");
-    width: 50%;
+    width: 60%;
     background-repeat: no-repeat;
     background-size: 100%;
-    margin-left: 25%;
-     /* left: float; */
-     display: inline-block; 
-    }
+    margin-left: 20%;
+    position: center;
+   
+
+    
 }
 
 .work-inq h1{
@@ -151,6 +152,20 @@
     padding-left: 50px;
     padding-bottom: 50px;
     padding-top: 70px;
-   
-}
+    width: 50%;
+    display: inline-block;
+    
 
+}   
+
+
+.btn2 {
+    color: white;
+    background-color: tomato;
+    padding: 15px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    width: 50%;
+    margin-left: 100px;
+    
+}
