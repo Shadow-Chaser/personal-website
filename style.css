@@ -24,6 +24,7 @@
 .half-width{
     width:50%;
     float:left;
+    /* position: absoloute; */
 }
 
 .side-img{
@@ -32,11 +33,11 @@
 }
 
 
-#hello{
+#color1 {
     color: #363958;
 }
 
-#name{
+#color2{
     color: #FF8367;
 }
 
@@ -48,6 +49,19 @@
     text-decoration: none;
 }
 
-h1{
+#intro{
     font-family: Roboto, Ubuntu, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#second-intro{
+    font: Roboto;
+    font-size: 16px;
+}
+
+#abt{
+    font-family: Roboto, Ubuntu, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 48px;
 }
