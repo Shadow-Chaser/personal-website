@@ -1,0 +1,53 @@
+.navbar{
+    
+    position: absolute;
+    width: 319px;
+    height: 24px;
+    left: 979px;
+    top: 37px;
+
+}
+.navbar a{
+    text-decoration: none;
+    padding-left: 18px;
+    font: roboto;
+    color:#3C3C3C;
+    font-weight: bold;
+}
+
+.container{
+    padding-left: 135px;
+    padding-top: 180px;
+    display: inline-block;
+}
+
+.half-width{
+    width:50%;
+    float:left;
+}
+
+.side-img{
+    width: 75%;
+    padding-right: 25%;
+}
+
+
+#hello{
+    color: #363958;
+}
+
+#name{
+    color: #FF8367;
+}
+
+.btn {
+    color: white;
+    background-color: #FF8063;
+    padding: 15px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+h1{
+    font-family: Roboto, Ubuntu, Arial, sans-serif;
+}
